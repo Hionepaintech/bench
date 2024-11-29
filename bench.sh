@@ -233,8 +233,8 @@ install_speedtest() {
     printf "%-18s%-18s%-20s%-12s\n" " Node Name"   "Upload Speed"   "Download Speed"   "Latency"
 }
 
-CWH="033[1;37m"
-REST="033[0m"
+CWH="\033[1;37m"
+REST="\033[0m"
 print_intro() {
     echo -e "-------------------- A Bench.sh Script By Teddysun -------------------"
     echo -e " Version            : $(_green 29.11.24)"
