@@ -1,5 +1,5 @@
 # bench
-Script Bench mod only lokal speedtest...
+*Script Bench mod only lokal speedtest...*
 
 # Usage 
 ```
