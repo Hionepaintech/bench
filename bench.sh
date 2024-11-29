@@ -239,7 +239,7 @@ print_intro() {
     echo -e "-------------------- A Bench.sh Script By Teddysun -------------------"
     echo -e " Version            : $(_green 29.11.24)"
     echo -e " ${CWH}Mod by PainShop.ID :${REST}
-Focus on local Indonesian speedtest and around."
+ Focus on local Indonesian speedtest and around."
 }
 
 # Get System information
