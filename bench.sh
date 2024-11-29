@@ -236,10 +236,10 @@ install_speedtest() {
 CWH="033[1;37m"
 REST="033[0m"
 print_intro() {
-    echo "-------------------- A Bench.sh Script By Teddysun -------------------"
-    echo "${CWH}Mod by PainShop.ID:${REST}
+    echo -e "-------------------- A Bench.sh Script By Teddysun -------------------"
+    echo -e " Version            : $(_green 29.11.24)"
+    echo -e " ${CWH}Mod by PainShop.ID :${REST}
 Focus on local Indonesian speedtest and around."
-    echo " Version            : $(_green 29.11.24)"
 }
 
 # Get System information
